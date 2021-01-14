@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 3,
+      "name": "Lamborgini"
+    },
+    {
+      "id": 4,
+      "name": "Fiat"
+    },
+    {
+      "name": "Barkasz",
+      "id": 5
+    },
+    {
+      "name": "Lotus",
+      "id": 6
+    },
+    {
+      "name": "Renault",
+      "id": 7
+    },
+    {
+      "name": "Citroen",
+      "id": 8
+    },
+    {
+      "name": "Ferrari",
+      "id": 9
+    },
+    {
+      "name": "Suzuki",
+      "id": 10
+    }
+  ]
+}
